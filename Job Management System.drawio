@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T21:09:02.570Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="7OHXKRodlvR_W4OrUzrO" version="22.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-14T21:09:47.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4XsErPIEu2j1XEVGJOsg" version="22.1.8" type="github" pages="2">
   <diagram name="DFD" id="n0FZbdHuvzvqF5hNi4Mt">
     <mxGraphModel dx="1956" dy="987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -376,6 +376,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-TL9NEGEg42N0MaOFhkl-1" value="&lt;h1&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;Job Application System&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="289" y="40" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-TL9NEGEg42N0MaOFhkl-2" value="&lt;h1&gt;ER Diagram&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="328" y="99" width="250" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
